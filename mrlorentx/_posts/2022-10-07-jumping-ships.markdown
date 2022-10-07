@@ -18,7 +18,7 @@ Most of the things you already know should be applicable to a new ecosystem. Thi
 
 - Ask for help
 
-You know that feeling that you can get sometimes if you go too deep on something, and then have to turn around because you’ve made some incorrect assumptions early without investigating the options? That will happen a whole lot more ******now. Make sure you get help, ask for help, and learn from that help as soon as possible to remove wasted time. I’m not saying you shouldn’t test your wings anymore, but be responsible about it.
+You know that feeling that you can get sometimes if you go too deep on something, and then have to turn around because you’ve made some incorrect assumptions early without investigating the options? That will happen a whole lot more now. Make sure you get help, ask for help, and learn from that help as soon as possible to remove wasted time. I’m not saying you shouldn’t test your wings anymore, but be responsible about it.
 
 - Apply your experience
 
