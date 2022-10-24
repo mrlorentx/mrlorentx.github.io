@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Jumping ships"
-date:   2022-09-19 20:01:23 +0200
-categories: career, development
+date:   2022-10-07 20:01:23 +0200
+categories: career
 ---
 
 
